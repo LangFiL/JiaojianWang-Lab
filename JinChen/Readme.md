@@ -24,7 +24,7 @@ This repository contains the scripts and resources used in our study. The projec
 * **Description**: Contains MPLUS scripts for Exploratory Structural Equation Modeling (ESEM). Includes the implementation of ESEM-Bifactor models.
 * **Tools Used**:
   * Mplus7
-  * BifactorIndicesCalculator (0.2.2)
+  * `BifactorIndicesCalculator` (0.2.2)
 
 ### 3. **ANOVA and T-test**
 
