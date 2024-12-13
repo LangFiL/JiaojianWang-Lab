@@ -11,20 +11,20 @@ This repository contains the scripts and resources used in our study. The projec
 ### 1. **CFA**
 
 * **Description**: Contains R scripts for confirmatory factor analysis (CFA), including:
-  * Single-factor models
-  * Bifactor models
-  * Dual-factor models
+  * Unifactor model
+  * Bifactor model
+  * Corfactor model
 * **Tools Used**:
   * `Lavaan` (4.4.3)
   * `Psych` (4.3.3)
   * `SemTools` (0.5-6)
-  * `BifactorIndicesCalculator` (0.2.2)
 
 ### 2. **ESEM**
 
 * **Description**: Contains MPLUS scripts for Exploratory Structural Equation Modeling (ESEM). Includes the implementation of ESEM-Bifactor models.
 * **Tools Used**:
   * Mplus7
+  * BifactorIndicesCalculator (0.2.2)
 
 ### 3. **ANOVA and T-test**
 
